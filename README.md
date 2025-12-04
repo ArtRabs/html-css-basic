@@ -20,7 +20,7 @@ I want to be Backend Developer but who knows.
 
   - Comments: `<!-- ... -->`
 
-    - Example: [lyrics.html](./lesson-01-html-basic/lyrics.html) - A simple page with a song title and lyrics.
+    - Example/s: [lyrics.html](./lesson-01-html-basic/lyrics.html) - A simple page with a song title and lyrics.
 
 <hr>
 
@@ -40,7 +40,7 @@ I want to be Backend Developer but who knows.
 
   - Email links (`mailto:`)
 
-    - Example: [lyrics.html](./lesson-02-hyperlinks/lyrics.html) - Now with link to the original video.
+    - Example/s: [lyrics.html](./lesson-02-hyperlinks/lyrics.html) - Now with link to the original video.
 
 <hr>
 
@@ -60,9 +60,37 @@ I want to be Backend Developer but who knows.
 
     Contains image (`nah id win.jpg`), (`pc_kv1.png`) and GIF (`gojo.gif`).
 
+- **Lesson 4: [Audio](./lesson-04-audio/index.html)**  
 
+  Covers different ways to use the `<audio>` tag:
+
+    - Basic audio embedding with `src` and `type` attributes
+  
+    - Adding playback controls (`controls`)
+  
+    - Autoplaying audio (`autoplay`) — note: may require `muted` due to browser restrictions
+  
+    - Looping audio (`loop`)
+  
+    - Providing multiple formats (`.mp3`, `.wav`, etc.) for compatibility
+  
+    - Labeling audio clips with descriptive text for clarity
+
+        - Example/s: [audio folder](./lesson-04-audio/audio/) presents multiple audio files:
+
+      
+            - `ultra-instinct-theme-official-version.mp3`
+            
+            - `batida-de-porta-troll.mp3`
+            
+            - `fahhh_KcgAXfs.mp3`
+            
+            - `ping_missing.mp3`
+            
+            - `tuco-get-out.mp3`
+            
+            - `kono-dio-da99.mp3`
+    
 ## 📜 Reference
 
 Bro Code's [HTML & CSS Full Course for free 🌎](https://youtu.be/HGTJBPNC-Gw?si=a0IynkT4bDszamhX) and thank you for being such a chad.
-
-
