@@ -94,3 +94,11 @@ I want to be Backend Developer but who knows.
 ## 📜 Reference
 
 Bro Code's [HTML & CSS Full Course for free 🌎](https://youtu.be/HGTJBPNC-Gw?si=a0IynkT4bDszamhX) and thank you for being such a chad.
+
+Jujutsu Kaisen Chapter 221 `nah id win.jpeg`
+
+Jujustsu Kaisen Season 2 Episode 4 `gojo.gif`
+
+[`pc_kv1.png`](https://heavenburnsred.yo-star.com/fankit/pc-wallpaper/) is from official website of Heaven Burns Red.
+
+All audio in Lesson 4 is from [Myinstants](https://www.myinstants.com/en/categories/sound%20effects/). (Nah, I ain't one by one it, help)
