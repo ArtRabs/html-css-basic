@@ -20,8 +20,9 @@ I want to be Backend Developer but who knows.
 
   - Comments: `<!-- ... -->`
 
-    - Practice: [lyrics.html](./lesson-01-html-basic/lyrics.html) - A simple page with a song title and lyrics.
+    - Example: [lyrics.html](./lesson-01-html-basic/lyrics.html) - A simple page with a song title and lyrics.
 
+<hr>
 
 - **Lesson 2: [Hyperlinks](./lesson-02-hyperlinks/index.html)**  
 
@@ -39,7 +40,26 @@ I want to be Backend Developer but who knows.
 
   - Email links (`mailto:`)
 
-    - Practice: [lyrics.html](./lesson-02-hyperlinks/lyrics.html) - Now with link to the original video.
+    - Example: [lyrics.html](./lesson-02-hyperlinks/lyrics.html) - Now with link to the original video.
+
+<hr>
+
+- **Lesson 3: [Images](./lesson-03-images/index.html)**
+
+  Shows how to embed images with the `<img>` tag:
+
+  - Basic image embedding with `src`, `alt`, `height`, and `width` attributes
+
+  - Linking an image to an external site using `<a>` + `<img>`
+
+  - Displaying animated GIFs
+
+  - Using descriptive `alt` text for accessibility
+
+    - Example/s: [images folder](./lesson-03-images/images/) and [lyrics.html](./lesson-03-images/lyrics.html)
+
+    Contains image (`nah id win.jpg`), (`pc_kv1.png`) and GIF (`gojo.gif`).
+
 
 ## 📜 Reference
 
