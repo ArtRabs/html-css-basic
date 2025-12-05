@@ -6,6 +6,8 @@ I want to be Backend Developer but who knows.
 
 ## 📝 Lessons
 
+Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
+
 - **Lesson 1: [HTML Basics](./lesson-01-html-basic/index.html)**  
 
   Covers the foundational HTML structure:
@@ -60,6 +62,8 @@ I want to be Backend Developer but who knows.
 
     Contains image (`nah id win.jpg`), (`pc_kv1.png`) and GIF (`gojo.gif`).
 
+<hr>
+
 - **Lesson 4: [Audio](./lesson-04-audio/index.html)**  
 
   Covers different ways to use the `<audio>` tag:
@@ -90,6 +94,36 @@ I want to be Backend Developer but who knows.
             - `tuco-get-out.mp3`
             
             - `kono-dio-da99.mp3`
+
+<hr>
+
+- **Lesson 5: [Video](./lesson-05-video/index.html)**  
+
+  Shows how to embed and control video playback with the `<video>` tag, kinda like the `<image>` too:
+
+  - Basic video embedding with `<video>` and `<source>`
+
+  - Attributes:
+
+    - `controls` → adds play/pause/volume UI
+
+    - `autoplay` → starts playback automatically
+
+    - `muted` → required for autoplay in most browsers
+
+    - `height` / `width` → set video dimensions
+
+  - Wrapping a video in a hyperlink (`<a>`) to redirect when clicked
+
+  - Supporting multiple video files with `<source>` elements (I do not have any video files here other than `.mp4`, but `.webm`, `.avi`, `.ogg` will work)
+
+    - Example/s:
+
+      - `clip_1,764,935,995,030.mp4` (autoplay + muted demo)
+
+        - wrapped in a link to [Monster Hunter Rise on Steam](https://store.steampowered.com/app/1446780/MONSTER_HUNTER_RISE/)
+
+      - `Hollow Knight- Silksong - 2025-10-02 6-01-13 PM.mp4` (manual controls demo)
     
 ## 📜 Reference
 
@@ -102,3 +136,7 @@ Jujustsu Kaisen Season 2 Episode 4 `gojo.gif`
 [`pc_kv1.png`](https://heavenburnsred.yo-star.com/fankit/pc-wallpaper/) is from official website of Heaven Burns Red.
 
 All audio in Lesson 4 is from [Myinstants](https://www.myinstants.com/en/categories/sound%20effects/). (Nah, I ain't one by one it, help)
+
+Videos from lesson 5: 
+  - `clip_1,764,935,995,030.mp4` (My Monster Hunter Rise Sunbreak gameplay clip)  
+  - `Hollow Knight- Silksong - 2025-10-02 6-01-13 PM.mp4` (My Hollow Knight - Silksong gameplay clip)  
