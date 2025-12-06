@@ -13,16 +13,13 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
   Covers the foundational HTML structure:
 
   - `<!DOCTYPE html>` declaration
-
   - `<html>`, `<head>`, `<title>`, `<body>` elements
-
   - Text elements: `<p>`, `<pre>`
-
   - Separators: `<hr>`, `<br>`
-
   - Comments: `<!-- ... -->`
 
-    - Example/s: [lyrics.html](./lesson-01-html-basic/lyrics.html) - A simple page with a song title and lyrics.
+  **Demo Files:**
+  - [lyrics.html](./lesson-01-html-basic/lyrics.html) — A simple page with a song title and lyrics
 
 <hr>
 
@@ -31,36 +28,30 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
   Demonstrates different ways to use the `<a>` tag:
 
   - External links (`href="https://..."`)
-
   - Opening links in a new tab (`target="_blank"`)
-  
   - Adding tooltips with the `title` attribute
-
   - Relative links to other lessons (`../lesson-01-html-basic/lyrics.html`)
-
   - Placeholder/anchor links (`href="lyrics.html"`)
-
   - Email links (`mailto:`)
 
-    - Example/s: [lyrics.html](./lesson-02-hyperlinks/lyrics.html) - Now with link to the original video.
+  **Demo Files:**
+  - [lyrics.html](./lesson-02-hyperlinks/lyrics.html) — Now with link to the original video
 
 <hr>
 
-- **Lesson 3: [Images](./lesson-03-images/index.html)**
+- **Lesson 3: [Images](./lesson-03-images/index.html)**  
 
   Shows how to embed images with the `<img>` tag:
 
   - Basic image embedding with `src`, `alt`, `height`, and `width` attributes
-
   - Linking an image to an external site using `<a>` + `<img>`
-
   - Displaying animated GIFs
-
   - Using descriptive `alt` text for accessibility
 
-    - Example/s: [images folder](./lesson-03-images/images/) and [lyrics.html](./lesson-03-images/lyrics.html)
-
-    Contains image (`nah id win.jpg`), (`pc_kv1.png`) and GIF (`gojo.gif`).
+  **Demo Files:**
+  - [images folder](./lesson-03-images/images/)  
+  - [lyrics.html](./lesson-03-images/lyrics.html)  
+  - Contains image (`nah id win.jpg`), (`pc_kv1.png`) and GIF (`gojo.gif`).
 
 <hr>
 
@@ -68,32 +59,21 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
 
   Covers different ways to use the `<audio>` tag:
 
-    - Basic audio embedding with `src` and `type` attributes
-  
-    - Adding playback controls (`controls`)
-  
-    - Autoplaying audio (`autoplay`) — note: may require `muted` due to browser restrictions
-  
-    - Looping audio (`loop`)
-  
-    - Providing multiple formats (`.mp3`, `.wav`, etc.) for compatibility
-  
-    - Labeling audio clips with descriptive text for clarity
+  - Basic audio embedding with `src` and `type` attributes
+  - Adding playback controls (`controls`)
+  - Autoplaying audio (`autoplay`) — note: may require `muted` due to browser restrictions
+  - Looping audio (`loop`)
+  - Providing multiple formats (`.mp3`, `.wav`, etc.) for compatibility
+  - Labeling audio clips with descriptive text for clarity
 
-        - Example/s: [audio folder](./lesson-04-audio/audio/) presents multiple audio files:
-
-      
-            - `ultra-instinct-theme-official-version.mp3`
-            
-            - `batida-de-porta-troll.mp3`
-            
-            - `fahhh_KcgAXfs.mp3`
-            
-            - `ping_missing.mp3`
-            
-            - `tuco-get-out.mp3`
-            
-            - `kono-dio-da99.mp3`
+  **Demo Files:**
+  - [audio folder](./lesson-04-audio/audio/) — presents multiple audio files:
+    - `ultra-instinct-theme-official-version.mp3`
+    - `batida-de-porta-troll.mp3`
+    - `fahhh_KcgAXfs.mp3`
+    - `ping_missing.mp3`
+    - `tuco-get-out.mp3`
+    - `kono-dio-da99.mp3`
 
 <hr>
 
@@ -102,41 +82,58 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
   Shows how to embed and control video playback with the `<video>` tag, kinda like the `<image>` too:
 
   - Basic video embedding with `<video>` and `<source>`
-
   - Attributes:
-
     - `controls` → adds play/pause/volume UI
-
     - `autoplay` → starts playback automatically
-
     - `muted` → required for autoplay in most browsers
-
     - `height` / `width` → set video dimensions
-
   - Wrapping a video in a hyperlink (`<a>`) to redirect when clicked
-
   - Supporting multiple video files with `<source>` elements (I do not have any video files here other than `.mp4`, but `.webm`, `.avi`, `.ogg` will work)
 
-    - Example/s:
+  **Demo Files:**
+  - `clip_1,764,935,995,030.mp4` — autoplay + muted demo, wrapped in a link to [Monster Hunter Rise on Steam](https://store.steampowered.com/app/1446780/MONSTER_HUNTER_RISE/)  
+  - `Hollow Knight- Silksong - 2025-10-02 6-01-13 PM.mp4` — manual controls demo
 
-      - `clip_1,764,935,995,030.mp4` (autoplay + muted demo)
+<hr>
 
-        - wrapped in a link to [Monster Hunter Rise on Steam](https://store.steampowered.com/app/1446780/MONSTER_HUNTER_RISE/)
+- **Lesson 6: [Favicons](./lesson-06-favicons/index.html)**  
 
-      - `Hollow Knight- Silksong - 2025-10-02 6-01-13 PM.mp4` (manual controls demo)
+  Explains how to add a favicon to your website using the `<link>` tag:
+
+  - Basic favicon setup with `<link rel="icon">`
+  - Supported image formats: `.ico`, `.png`, `.svg`, `.jpg`
+  - Using the `type` attribute (`image/image-type`, `image/image-name`, etc.)
+  - Best practice: edit the image itself to the correct size (e.g., 96×96) instead of relying on `sizes` like `width` and `length`, but not restricted of course
+
+
+  **Demo Files:**
+  - [index.html](./lesson-06-favicons/index.html) — includes:
+    ```html
+    <link 
+        rel="icon" 
+        type="image/png" 
+        href="images/favicon 96x96.png">
+    ```
+    - Uses a `favicon.png` edited to 96×96 pixels  
+    - Demonstrates clean setup without `sizes` attribute
+
     
 ## 📜 Reference
 
 Bro Code's [HTML & CSS Full Course for free 🌎](https://youtu.be/HGTJBPNC-Gw?si=a0IynkT4bDszamhX) and thank you for being such a chad.
 
-Jujutsu Kaisen Chapter 221 `nah id win.jpeg`
+Lesson 3:
 
-Jujustsu Kaisen Season 2 Episode 4 `gojo.gif`
+- Jujutsu Kaisen Chapter 221 `nah id win.jpeg`
 
-[`pc_kv1.png`](https://heavenburnsred.yo-star.com/fankit/pc-wallpaper/) is from official website of Heaven Burns Red.
+- Jujustsu Kaisen Season 2 Episode 4 `gojo.gif`
+
+- [`pc_kv1.png`](https://heavenburnsred.yo-star.com/fankit/pc-wallpaper/) is from official website of Heaven Burns Red.
 
 All audio in Lesson 4 is from [Myinstants](https://www.myinstants.com/en/categories/sound%20effects/). (Nah, I ain't one by one it, help)
 
 Videos from lesson 5: 
   - `clip_1,764,935,995,030.mp4` (My Monster Hunter Rise Sunbreak gameplay clip)  
   - `Hollow Knight- Silksong - 2025-10-02 6-01-13 PM.mp4` (My Hollow Knight - Silksong gameplay clip)  
+
+In Lesson 6, both `favicon.png` is from Blazblue Entropy Effect, a given wallpaper.
