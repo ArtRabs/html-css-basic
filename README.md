@@ -4,11 +4,20 @@ Another day with Bro Code learning his [HTML & CSS Full Course for free 🌎](ht
 
 I want to be Backend Developer but who knows.
 
+## 📚 Table of Contents
+- [Lesson 1: HTML Basics](#lesson-1-html-basics)
+- [Lesson 2: Hyperlinks](#lesson-2-hyperlinks)
+- [Lesson 3: Images](#lesson-3-images)
+- [Lesson 4: Audio](#lesson-4-audio)
+- [Lesson 5: Video](#lesson-5-video)
+- [Lesson 6: Favicons](#lesson-6-favicons)
+- [Reference](#reference)
+
 ## 📝 Lessons
 
 Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
 
-- **Lesson 1: [HTML Basics](./lesson-01-html-basic/index.html)**  
+### **Lesson 1: [HTML Basics](./lesson-01-html-basic/index.html)**  
 
   Covers the foundational HTML structure:
 
@@ -23,7 +32,7 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
 
 <hr>
 
-- **Lesson 2: [Hyperlinks](./lesson-02-hyperlinks/index.html)**  
+### **Lesson 2: [Hyperlinks](./lesson-02-hyperlinks/index.html)**  
 
   Demonstrates different ways to use the `<a>` tag:
 
@@ -39,7 +48,7 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
 
 <hr>
 
-- **Lesson 3: [Images](./lesson-03-images/index.html)**  
+### **Lesson 3: [Images](./lesson-03-images/index.html)**  
 
   Shows how to embed images with the `<img>` tag:
 
@@ -55,7 +64,7 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
 
 <hr>
 
-- **Lesson 4: [Audio](./lesson-04-audio/index.html)**  
+### **Lesson 4: [Audio](./lesson-04-audio/index.html)**  
 
   Covers different ways to use the `<audio>` tag:
 
@@ -77,7 +86,7 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
 
 <hr>
 
-- **Lesson 5: [Video](./lesson-05-video/index.html)**  
+### **Lesson 5: [Video](./lesson-05-video/index.html)**  
 
   Shows how to embed and control video playback with the `<video>` tag, kinda like the `<image>` too:
 
@@ -96,7 +105,7 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
 
 <hr>
 
-- **Lesson 6: [Favicons](./lesson-06-favicons/index.html)**  
+### **Lesson 6: [Favicons](./lesson-06-favicons/index.html)**  
 
   Explains how to add a favicon to your website using the `<link>` tag:
 
@@ -118,7 +127,7 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
     - Demonstrates clean setup without `sizes` attribute
 
     
-## 📜 Reference
+## 📜 Reference <a id="reference"> </a>
 
 Bro Code's [HTML & CSS Full Course for free 🌎](https://youtu.be/HGTJBPNC-Gw?si=a0IynkT4bDszamhX) and thank you for being such a chad.
 
