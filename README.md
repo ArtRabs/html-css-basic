@@ -143,6 +143,19 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
 
   **Demo Files:**
   - [index.html](./lesson-07-text-formatting/index.html) — showcases all the above formatting tags
+
+<hr>
+
+### Lesson 8: [Span and Div](./lesson-08-span-and-div/index.html)  
+
+  Explains the use of `<span>` and `<div>` for grouping and styling content:
+
+  - `<span>`: inline container for text, useful for styling parts of a sentence
+  - `<div>`: block-level container for larger sections of content
+  - Applying inline styles using the `style` attribute (e.g., `background-color`)
+
+  **Demo Files:**
+  - [index.html](./lesson-08-span-and-div/index.html) — includes examples of both `<span>` and `<div>` with different background colors
     
 ## 📜 Reference <a id="reference"> </a>
 
