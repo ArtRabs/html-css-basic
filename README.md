@@ -11,6 +11,9 @@ I want to be Backend Developer but who knows.
 - [Lesson 4: Audio](#lesson-4-audio)
 - [Lesson 5: Video](#lesson-5-video)
 - [Lesson 6: Favicons](#lesson-6-favicons)
+- [Lesson 7: Text Formatting](#lesson-7-text-formatting)
+- [Lesson 8: Span and Div](#lesson-8-span-and-div)
+- [Lesson 9: Lists](#lesson-9-lists)
 - [Reference](#reference)
 
 ## 📝 Lessons
@@ -126,6 +129,8 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
     - Uses a `favicon.png` edited to 96×96 pixels  
     - Demonstrates clean setup without `sizes` attribute
 
+<hr>
+
 ### Lesson 7: [Text Formatting](./lesson-07-text-formatting/index.html)  
 
   Demonstrates various text formatting tags in HTML:
@@ -156,7 +161,22 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
 
   **Demo Files:**
   - [index.html](./lesson-08-span-and-div/index.html) — includes examples of both `<span>` and `<div>` with different background colors
-    
+
+<hr>
+
+### Lesson 9: [Lists](./lesson-09-lists/index.html)  
+
+  Covers the creation of ordered and unordered lists in HTML:
+
+  - `<ul>` for unordered (bulleted) lists
+  - `<ol>` for ordered (numbered) lists
+  - `<li>` for list items
+  - Nesting lists within lists for sub-items
+  - `<dt>`, and `<dd>` for description lists
+
+  **Demo Files:**
+  - [index.html](./lesson-09-lists/index.html) — demonstrates both unordered, ordered and description lists with nested items
+
 ## 📜 Reference <a id="reference"> </a>
 
 Bro Code's [HTML & CSS Full Course for free 🌎](https://youtu.be/HGTJBPNC-Gw?si=a0IynkT4bDszamhX) and thank you for being such a chad.
