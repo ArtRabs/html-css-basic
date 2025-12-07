@@ -126,6 +126,23 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
     - Uses a `favicon.png` edited to 96×96 pixels  
     - Demonstrates clean setup without `sizes` attribute
 
+### Lesson 7: [Text Formatting](./lesson-07-text-formatting/index.html)  
+
+  Demonstrates various text formatting tags in HTML:
+
+  - `<b>` and `<strong>` for bold text
+  - `<i>` and `<em>` for italic text
+  - `<u>` for underlined text
+  - `<del>` for deleted text
+  - `<big>` for larger text
+  - `<small>` for smaller text
+  - `<sub>` for subscript text
+  - `<sup>` for superscript text
+  - `<tt>` for monospace text
+  - `<mark>` for highlighted text
+
+  **Demo Files:**
+  - [index.html](./lesson-07-text-formatting/index.html) — showcases all the above formatting tags
     
 ## 📜 Reference <a id="reference"> </a>
 
