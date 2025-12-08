@@ -16,6 +16,7 @@ I want to be Backend Developer but who knows.
 - [Lesson 9: Lists](#lesson-9-lists)
 - [Lesson 10: Tables](#lesson-10-tables)
 - [Lesson 11: Buttons](#lesson-11-buttons)
+- [Lesson 12: Forms](#lesson-12-forms)
 - [Reference](#reference)
 
 ## 📝 Lessons
@@ -209,6 +210,33 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
   **Demo Files:**
   - [index.html](./lesson-11-buttons/index.html) — showcases button styles
   - [page2.html](./lesson-11-buttons/page2.html) — includes buttons with JavaScript actions
+
+<hr>
+
+### Lesson 12: [Forms](./lesson-12-forms/index.html)  
+
+Introduces HTML form elements for user input:
+
+- `<form>`: defines the form, with `action`, `method`, and `enctype`
+- `<label>`: labels for form elements
+- `<input>`: various types
+  - `text` with `minlength`, `maxlength`, `required`
+  - `password` with length restrictions
+  - `email` with `placeholder`
+  - `tel` with `pattern` for validation
+  - `date` for birthdate
+  - `number` with `min` and `max`
+  - `radio` buttons grouped with `name`
+  - `checkbox` for subscription
+  - `file` with `accept` filter
+  - `reset` and `submit` controls
+- `<select>` and `<option>`: dropdown menus
+- `<textarea>`: multi-line text input
+- Attributes like `placeholder`, `pattern`, `required`, `min`, `max`, `accept`
+
+**Demo Files:**
+- [index.html](./lesson-12-forms/index.html) — includes a sample form with different input types, validation attributes, and file upload
+
 
 ## 📜 Reference <a id="reference"> </a>
 
