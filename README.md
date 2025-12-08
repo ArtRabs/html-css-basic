@@ -15,6 +15,7 @@ I want to be Backend Developer but who knows.
 - [Lesson 8: Span and Div](#lesson-8-span-and-div)
 - [Lesson 9: Lists](#lesson-9-lists)
 - [Lesson 10: Tables](#lesson-10-tables)
+- [Lesson 11: Buttons](#lesson-11-buttons)
 - [Reference](#reference)
 
 ## 📝 Lessons
@@ -193,6 +194,21 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
 
   **Demo Files:**
   - [index.html](./lesson-10-tables/index.html) — includes a sample table with headers and data cells
+
+<hr>
+
+### Lesson 11: [Buttons](./lesson-11-buttons/index.html)  
+
+  Explains how to create and style buttons:
+
+  - `<button>`: defines a clickable button
+  - Adding `<a>` inside buttons
+  - Using inline styles to customize button appearance (e.g., `font-size`,`background-color`, `color`)
+  - A sneak peek of JavaScript with `onclick` attribute to trigger actions when the button is clicked
+
+  **Demo Files:**
+  - [index.html](./lesson-11-buttons/index.html) — showcases button styles
+  - [page2.html](./lesson-11-buttons/page2.html) — includes buttons with JavaScript actions
 
 ## 📜 Reference <a id="reference"> </a>
 
