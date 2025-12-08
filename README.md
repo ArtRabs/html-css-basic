@@ -14,6 +14,7 @@ I want to be Backend Developer but who knows.
 - [Lesson 7: Text Formatting](#lesson-7-text-formatting)
 - [Lesson 8: Span and Div](#lesson-8-span-and-div)
 - [Lesson 9: Lists](#lesson-9-lists)
+- [Lesson 10: Tables](#lesson-10-tables)
 - [Reference](#reference)
 
 ## 📝 Lessons
@@ -176,6 +177,22 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
 
   **Demo Files:**
   - [index.html](./lesson-09-lists/index.html) — demonstrates both unordered, ordered and description lists with nested items
+
+<hr>
+
+### Lesson 10: [Tables](./lesson-10-tables/index.html)  
+
+  Introduces HTML table elements for displaying tabular data:
+
+  - `<table>`: defines the table
+  - `<tr>`: defines a table row
+  - `<th>`: defines a header cell
+  - `<td>`: defines a standard data cell
+  - `width`: sets the width of the header cell
+  - Using attributes like `border`, `cellpadding`, and `cellspacing` to style tables
+
+  **Demo Files:**
+  - [index.html](./lesson-10-tables/index.html) — includes a sample table with headers and data cells
 
 ## 📜 Reference <a id="reference"> </a>
 
