@@ -18,6 +18,7 @@ I want to be Backend Developer but who knows.
 - [Lesson 11: Buttons](#lesson-11-buttons)
 - [Lesson 12: Forms](#lesson-12-forms)
 - [Lesson 13: Headers and Footers](#lesson-13-headers-and-footers)
+- [Lesson 14: CSS Basics](#lesson-14-css-basics)
 - [Reference](#reference)
 
 ## 📝 Lessons
@@ -249,6 +250,23 @@ Introduces HTML form elements for user input:
 
   **Demo Files:**
   - [index.html](./lesson-13-headers-and-footers/index.html) — Portrays the use of `<header>` and `<footer>` with sample content, including an image (`Lloyd OK.png`)
+
+<hr>
+
+### Lesson 14: [CSS Basics](./lesson-14-css-basic/index.html)
+
+  Introduces the basics of CSS for styling HTML elements:
+
+  - Inline CSS using the `style` attribute
+  - Internal CSS within a `<style>` tag in the `<head>`
+  - External CSS using a separate `.css` file linked with `<link>`
+  - Basic CSS properties like `color`, `background-color`, and text styling
+  - Class selectors for styling multiple elements
+
+  **Demo Files:**
+  - [index.html](./lesson-14-css-basic/index.html) — demonstrates inline, internal, and external CSS
+  - [page2.html](./lesson-14-css-basic/page2.html) — another page styled with CSS classes
+  - [style.css](./lesson-14-css-basic/style.css) — external CSS file with class definitions
 
 ## 📜 Reference <a id="reference"> </a>
 
