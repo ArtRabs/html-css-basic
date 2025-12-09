@@ -1,0 +1,40 @@
+/* 
+
+Colors can be use in different ways
+
+Name - color:red
+RGB - color:rgb(255, 0, 0)
+HEX - color:#ff0000
+HSL - color:hsl(0, 100%, 50%)
+
+*/
+
+body {
+
+    background-color: slategrey;
+
+}
+
+#p1 {
+
+    color: tomato;
+
+}
+
+#p2 {
+
+    color: rgb(73, 138, 242);
+
+}
+
+#p3 {
+
+    color: #4affc9;
+
+}
+
+#p4 {
+
+    color: hsl(276, 87%, 50%)
+
+}
