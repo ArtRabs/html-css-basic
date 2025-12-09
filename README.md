@@ -20,6 +20,7 @@ I want to be Backend Developer but who knows.
 - [Lesson 13: Headers and Footers](#lesson-13-headers-and-footers)
 - [Lesson 14: CSS Basics](#lesson-14-css-basics)
 - [Lesson 15: Colors](#lesson-15-colors)
+- [Lesson 16: Fonts](#lesson-16-fonts)
 - [Reference](#reference)
 
 ## 📝 Lessons
@@ -282,6 +283,18 @@ Introduces HTML form elements for user input:
   - [index.html](./lesson-15-colors/index.html) — showcases various color formats applied to text and backgrounds
   - [style.css](./lesson-15-colors/style.css) — external CSS file defining color styles
 
+### Lesson 16: [Fonts](./lesson-16-fonts/index.html)
+
+  Covers the use of custom fonts in web design:
+
+  - Importing fonts from Google Fonts using `<link>` in the `<head>`
+  - Applying imported fonts to HTML elements using CSS `font-family` property
+  - Using multiple font families for fallback options
+
+  **Demo Files:**
+  - [index.html](./lesson-16-fonts/index.html) — demonstrates importing and applying Google Fonts remotely
+  - [style.css](./lesson-16-fonts/style.css) — external CSS file defining font styles and using local fonts
+
 ## 📜 Reference <a id="reference"> </a>
 
 Bro Code's [HTML & CSS Full Course for free 🌎](https://youtu.be/HGTJBPNC-Gw?si=a0IynkT4bDszamhX) and thank you for being such a chad.
@@ -303,3 +316,11 @@ Videos from lesson 5:
 In Lesson 6, both `favicon.png` is from Blazblue Entropy Effect, a given wallpaper.
 
 Lesson 13: `Lloyd OK.png` is from [The Greatest Estate Developer](https://www.webtoons.com/en/fantasy/the-greatest-estate-developer/list?title_no=3596), I forgot what chapter is the picture, but you can read the entire thing to see it. (Definitely not baitin- suggesting you to read it)
+
+Lesson 16 from Google Fonts:     
+
+```html
+<link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Science+Gothic:wght@100..900&display=swap" rel="stylesheet">
+```
