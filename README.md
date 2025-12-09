@@ -19,6 +19,7 @@ I want to be Backend Developer but who knows.
 - [Lesson 12: Forms](#lesson-12-forms)
 - [Lesson 13: Headers and Footers](#lesson-13-headers-and-footers)
 - [Lesson 14: CSS Basics](#lesson-14-css-basics)
+- [Lesson 15: Colors](#lesson-15-colors)
 - [Reference](#reference)
 
 ## 📝 Lessons
@@ -267,6 +268,19 @@ Introduces HTML form elements for user input:
   - [index.html](./lesson-14-css-basic/index.html) — demonstrates inline, internal, and external CSS
   - [page2.html](./lesson-14-css-basic/page2.html) — another page styled with CSS classes
   - [style.css](./lesson-14-css-basic/style.css) — external CSS file with class definitions
+
+<hr>
+
+### Lesson 15: [Colors](./lesson-15-colors/index.html)
+
+  Explores color usage in CSS:
+
+  - Different color formats: `named colors`,  `RGB`, `HEX`, and `HSL`
+  - Applying colors to text and backgrounds using CSS properties
+
+  **Demo Files:**
+  - [index.html](./lesson-15-colors/index.html) — showcases various color formats applied to text and backgrounds
+  - [style.css](./lesson-15-colors/style.css) — external CSS file defining color styles
 
 ## 📜 Reference <a id="reference"> </a>
 
