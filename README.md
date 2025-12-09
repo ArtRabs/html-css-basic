@@ -17,6 +17,7 @@ I want to be Backend Developer but who knows.
 - [Lesson 10: Tables](#lesson-10-tables)
 - [Lesson 11: Buttons](#lesson-11-buttons)
 - [Lesson 12: Forms](#lesson-12-forms)
+- [Lesson 13: Headers and Footers](#lesson-13-headers-and-footers)
 - [Reference](#reference)
 
 ## 📝 Lessons
@@ -237,6 +238,17 @@ Introduces HTML form elements for user input:
 **Demo Files:**
 - [index.html](./lesson-12-forms/index.html) — includes a sample form with different input types, validation attributes, and file upload
 
+<hr>
+
+### Lesson 13: [Headers and Footers](./lesson-13-headers-and-footers/index.html)
+
+  Covers the semantic HTML5 elements `<header>` and `<footer>`:
+
+  - `<header>`: defines the header section of a webpage, typically containing the site title, logo, and navigation links.
+  - `<footer>`: defines the footer section, usually containing copyright information, contact links, and additional navigation
+
+  **Demo Files:**
+  - [index.html](./lesson-13-headers-and-footers/index.html) — Portrays the use of `<header>` and `<footer>` with sample content, including an image (`Lloyd OK.png`)
 
 ## 📜 Reference <a id="reference"> </a>
 
@@ -257,3 +269,5 @@ Videos from lesson 5:
   - `Hollow Knight- Silksong - 2025-10-02 6-01-13 PM.mp4` (My Hollow Knight - Silksong gameplay clip)  
 
 In Lesson 6, both `favicon.png` is from Blazblue Entropy Effect, a given wallpaper.
+
+Lesson 13: `Lloyd OK.png` is from [The Greatest Estate Developer](https://www.webtoons.com/en/fantasy/the-greatest-estate-developer/list?title_no=3596), I forgot what chapter is the picture, but you can read the entire thing to see it. (Definitely not baitin- suggesting you to read it)
