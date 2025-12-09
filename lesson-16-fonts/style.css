@@ -1,0 +1,35 @@
+/*
+
+Google Fonts
+Local Fonts
+
+*/
+
+@font-face {
+
+    src: url(./fonts/ScienceGothic-VariableFont_CTRS\,slnt\,wdth\,wght.ttf);
+    font-family: Science Gothic;
+
+}
+
+@font-face {
+
+    src: url(./fonts/NotoSansJP-VariableFont_wght.ttf);
+    font-family: "Noto Sans JP";
+
+}
+
+h1 {
+
+    font-family: Science Gothic, verdana, arial;
+
+}
+
+p {
+
+    font-family:  "Noto Sans JP", "lucida console", "courier new";
+    font-size: 1em;
+    font-weight: bold;
+    font-style: italic;
+
+}
