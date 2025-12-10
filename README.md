@@ -21,6 +21,7 @@ I want to be Backend Developer but who knows.
 - [Lesson 14: CSS Basics](#lesson-14-css-basics)
 - [Lesson 15: Colors](#lesson-15-colors)
 - [Lesson 16: Fonts](#lesson-16-fonts)
+- [Lesson 17: Borders](#lesson-17-borders)
 - [Reference](#reference)
 
 ## 📝 Lessons
@@ -294,6 +295,22 @@ Introduces HTML form elements for user input:
   **Demo Files:**
   - [index.html](./lesson-16-fonts/index.html) — demonstrates importing and applying Google Fonts remotely
   - [style.css](./lesson-16-fonts/style.css) — external CSS file defining font styles and using local fonts
+
+<hr>
+
+### Lesson 17: [Borders](./lesson-17-borders/index.html)
+
+  Introduces CSS border properties for styling element borders:
+
+  - `border-width`: sets the thickness of the border
+  - `border-style`: defines the style of the border (e.g., solid, dashed, dotted)
+  - `border-color`: specifies the color of the border
+  - Shorthand `border` property to set width, style, and color in one line
+  - Individual border sides: `border-top`, `border-right`, `border-bottom`, `border-left`
+
+  **Demo Files:**
+  - [index.html](./lesson-17-borders/index.html) — showcases various border styles and properties
+  - [style.css](./lesson-17-borders/style.css) — external CSS file defining border styles
 
 ## 📜 Reference <a id="reference"> </a>
 
