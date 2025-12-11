@@ -22,6 +22,7 @@ I want to be Backend Developer but who knows.
 - [Lesson 15: Colors](#lesson-15-colors)
 - [Lesson 16: Fonts](#lesson-16-fonts)
 - [Lesson 17: Borders](#lesson-17-borders)
+- [Lesson 18: Shadows](#lesson-18-shadows)
 - [Reference](#reference)
 
 ## 📝 Lessons
@@ -311,6 +312,20 @@ Introduces HTML form elements for user input:
   **Demo Files:**
   - [index.html](./lesson-17-borders/index.html) — showcases various border styles and properties
   - [style.css](./lesson-17-borders/style.css) — external CSS file defining border styles
+
+<hr>
+
+### Lesson 18: [Shadows](./lesson-18-shadows/index.html)
+
+  Covers CSS box-shadow for adding shadows to elements:
+
+  - `text-shadow`: applies a shadow effect to text
+  - `box-shadow`: applies a shadow effect to an element
+  - Multiple shadow properties: `x-offset`, `y-offset`, `blur-radius`, `color`
+
+  **Demo Files:**
+  - [index.html](./lesson-18-shadows/index.html) — showcases box-shadow usage
+  - [style.css](./lesson-18-shadows/style.css) — external CSS file defining shadow styles
 
 ## 📜 Reference <a id="reference"> </a>
 
