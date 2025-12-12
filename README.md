@@ -23,6 +23,7 @@ I want to be Backend Developer but who knows.
 - [Lesson 16: Fonts](#lesson-16-fonts)
 - [Lesson 17: Borders](#lesson-17-borders)
 - [Lesson 18: Shadows](#lesson-18-shadows)
+- [Lesson 19: Margins](#lesson-19-margins)
 - [Reference](#reference)
 
 ## 📝 Lessons
@@ -326,6 +327,20 @@ Introduces HTML form elements for user input:
   **Demo Files:**
   - [index.html](./lesson-18-shadows/index.html) — showcases box-shadow usage
   - [style.css](./lesson-18-shadows/style.css) — external CSS file defining shadow styles
+
+<hr>
+
+### Lesson 19: [Margins](./lesson-19-margins/index.html)
+
+  Explains CSS margin properties for controlling the spacing around elements:
+
+  - `margin`: applies margin to all sides of an element
+  - `margin-top`, `margin-right`, `margin-bottom`, `margin-left`: applies margin to specific sides
+  - `margin: auto`: centers an element horizontally within its parent container
+
+  **Demo Files:**
+  - [index.html](./lesson-19-margins/index.html) — showcases margin styles
+  - [style.css](./lesson-19-margins/style.css) — external CSS file defining margin styles
 
 ## 📜 Reference <a id="reference"> </a>
 
