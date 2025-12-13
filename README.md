@@ -24,6 +24,7 @@ I want to be Backend Developer but who knows.
 - [Lesson 17: Borders](#lesson-17-borders)
 - [Lesson 18: Shadows](#lesson-18-shadows)
 - [Lesson 19: Margins](#lesson-19-margins)
+- [Lesson 20: Float](#lesson-20-float)
 - [Reference](#reference)
 
 ## 📝 Lessons
@@ -341,6 +342,18 @@ Introduces HTML form elements for user input:
   **Demo Files:**
   - [index.html](./lesson-19-margins/index.html) — showcases margin styles
   - [style.css](./lesson-19-margins/style.css) — external CSS file defining margin styles
+
+<hr>
+
+### lesson 20: [Float](./lesson-20-float/index.html)
+
+  Covers CSS float property allows other elements to flow around a floating elements:
+
+  - `float`: applies floating behavior to an element
+
+  **Demo Files:**
+  - [index.html](./lesson-20-float/index.html) — showcases floating elements
+  - [style.css](./lesson-20-float/style.css) — external CSS file defining float styles
 
 ## 📜 Reference <a id="reference"> </a>
 
