@@ -345,7 +345,7 @@ Introduces HTML form elements for user input:
 
 <hr>
 
-### lesson 20: [Float](./lesson-20-float/index.html)
+### Lesson 20: [Float](./lesson-20-float/index.html)
 
   Covers CSS float property allows other elements to flow around a floating elements:
 
@@ -354,6 +354,18 @@ Introduces HTML form elements for user input:
   **Demo Files:**
   - [index.html](./lesson-20-float/index.html) — showcases floating elements
   - [style.css](./lesson-20-float/style.css) — external CSS file defining float styles
+
+<hr>
+
+### Lesson 21: [Overflow](./lesson-21-overflow/index.html)
+
+  Explains CSS overflow properties for handling overflowing content:
+
+  - `overflow`: applies overflow behavior to an element
+
+  **Demo Files:**
+  - [index.html](./lesson-21-overflow/index.html) — showcases overflow styles
+  - [style.css](./lesson-21-overflow/style.css) — external CSS file defining overflow styles
 
 ## 📜 Reference <a id="reference"> </a>
 
