@@ -1,0 +1,14 @@
+div {
+
+    border: 2px solid;
+    height: 75px;
+    /*
+    overflow: visible;
+    overflow: clip;
+    overflow-clip-margin: 10px;
+    overflow: hidden;
+    overflow: scroll;
+    */
+    overflow: auto;
+    
+}
