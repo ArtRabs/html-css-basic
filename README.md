@@ -394,11 +394,24 @@ Introduces HTML form elements for user input:
   - `height`: sets the height of an element
   - `width`: sets the width of an element
   - `max` and `min` properties for setting minimum and maximum sizes
-  - `px`, `vh`, adn `%` units for specifying size values
+  - `px`, `vh`, and `%` units for specifying size values
 
   **Demo Files:**
   - [index.html](./lesson-23-height-and-width/index.html) — showcases height and width styles
   - [style.css](./lesson-23-height-and-width/style.css) — external CSS file defining height and width styles
+
+<hr>
+
+### Lesson 24: [Positions](./lesson-24-positions/index.html)
+
+  Covers CSS position property for controlling the positioning of elements:
+
+  - `position`: applies positioning behavior to an element
+  - `static`, `relative`, `absolute`, and `fixed` positioning options
+
+  **Demo Files:**
+  - [index.html](./lesson-24-positions/index.html) — showcases position styles
+  - [style.css](./lesson-24-positions/style.css) — external CSS file defining position styles
 
 ## 📜 Reference <a id="reference"> </a>
 
