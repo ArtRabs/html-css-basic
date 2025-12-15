@@ -27,6 +27,9 @@ I want to be Backend Developer but who knows.
 - [Lesson 20: Float](#lesson-20-float)
 - [Lesson 21: Overflow](#lesson-21-overflow)
 - [Lesson 22: Display Property](#lesson-22-display-property)
+- [Lesson 23: Height and Width](#lesson-23-height-and-width)
+- [Lesson 24: Positions](#lesson-24-positions)
+- [Lesson 25: Background Images](#lesson-25-background-images)
 - [Reference](#reference)
 
 ## 📝 Lessons
@@ -413,6 +416,19 @@ Introduces HTML form elements for user input:
   - [index.html](./lesson-24-positions/index.html) — showcases position styles
   - [style.css](./lesson-24-positions/style.css) — external CSS file defining position styles
 
+<hr>
+
+### Lesson 25: [Background Images](./lesson-25-background-images/index.html)
+
+  Covers CSS background-image property for adding background images to elements:
+
+  - `background-image`: applies a background image to an element
+  - `background-size`, `background-repeat`, `background-position`, and `background-attachment` properties for controlling background properties
+
+  **Demo Files:**
+  - [index.html](./lesson-25-background-images/index.html) — showcases background image styles
+  - [style.css](./lesson-25-background-images/style.css) — external CSS file defining background image styles
+
 ## 📜 Reference <a id="reference"> </a>
 
 Bro Code's [HTML & CSS Full Course for free 🌎](https://youtu.be/HGTJBPNC-Gw?si=a0IynkT4bDszamhX) and thank you for being such a chad.
@@ -442,3 +458,7 @@ Lesson 16 from Google Fonts:
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Science+Gothic:wght@100..900&display=swap" rel="stylesheet">
 ```
+
+Lesson 25:
+
+[Official Calendar Image](https://zenless.hoyoverse.com/en-us/news/122693) but I can not see the source of the one who cropped the dates, it is supposed to be in my google drive history, or perhaps there is no history nor google drive that happened
