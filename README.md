@@ -369,9 +369,9 @@ Introduces HTML form elements for user input:
   - [index.html](./lesson-21-overflow/index.html) — showcases overflow styles
   - [style.css](./lesson-21-overflow/style.css) — external CSS file defining overflow styles
 
-  <hr>
+<hr>
 
-  ### Lesson 22: [Display Property](./lesson-22-display-property/index.html)
+### Lesson 22: [Display Property](./lesson-22-display-property/index.html)
 
   Covers CSS display property for controlling the visibility and layout of elements:
 
@@ -384,6 +384,21 @@ Introduces HTML form elements for user input:
   **Demo Files:**
   - [index.html](./lesson-22-display-property/index.html) — showcases display styles
   - [style.css](./lesson-22-display-property/style.css) — external CSS file defining display styles
+
+<hr>
+
+### Lesson 23: [Height and Width](./lesson-23-height-and-width/index.html)
+
+  Covers CSS height and width properties for controlling the size of elements:
+
+  - `height`: sets the height of an element
+  - `width`: sets the width of an element
+  - `max` and `min` properties for setting minimum and maximum sizes
+  - `px`, `vh`, adn `%` units for specifying size values
+
+  **Demo Files:**
+  - [index.html](./lesson-23-height-and-width/index.html) — showcases height and width styles
+  - [style.css](./lesson-23-height-and-width/style.css) — external CSS file defining height and width styles
 
 ## 📜 Reference <a id="reference"> </a>
 
