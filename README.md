@@ -25,6 +25,8 @@ I want to be Backend Developer but who knows.
 - [Lesson 18: Shadows](#lesson-18-shadows)
 - [Lesson 19: Margins](#lesson-19-margins)
 - [Lesson 20: Float](#lesson-20-float)
+- [Lesson 21: Overflow](#lesson-21-overflow)
+- [Lesson 22: Display Property](#lesson-22-display-property)
 - [Reference](#reference)
 
 ## 📝 Lessons
@@ -366,6 +368,22 @@ Introduces HTML form elements for user input:
   **Demo Files:**
   - [index.html](./lesson-21-overflow/index.html) — showcases overflow styles
   - [style.css](./lesson-21-overflow/style.css) — external CSS file defining overflow styles
+
+  <hr>
+
+  ### Lesson 22: [Display Property](./lesson-22-display-property/index.html)
+
+  Covers CSS display property for controlling the visibility and layout of elements:
+
+  - `display`: applies display behavior to an element
+  - `display: block`: creates a block-level element
+  - `display: inline`: creates an inline element
+  - `display: none`: hides an element
+  - `display: inline-block`: creates an inline-block element
+
+  **Demo Files:**
+  - [index.html](./lesson-22-display-property/index.html) — showcases display styles
+  - [style.css](./lesson-22-display-property/style.css) — external CSS file defining display styles
 
 ## 📜 Reference <a id="reference"> </a>
 
