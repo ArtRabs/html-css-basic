@@ -30,6 +30,18 @@ I want to be Backend Developer but who knows.
 - [Lesson 23: Height and Width](#lesson-23-height-and-width)
 - [Lesson 24: Positions](#lesson-24-positions)
 - [Lesson 25: Background Images](#lesson-25-background-images)
+- [Lesson 26: Combinators](#lesson-26-combinators)
+- [Lesson 27: Pseudo-Classes](#lesson-27-pseudo-classes)
+- [Lesson 28: Pseudo-Elements](#lesson-28-pseudo-elements)
+- [Lesson 29: Pagination](#lesson-29-pagination)
+- [Lesson 30: Dropdown Menus](#lesson-30-dropdown-menus)
+- [Lesson 31: Navigation Bar](#lesson-31-navigation-bar)
+- [Lesson 32: Website Layout](#lesson-32-website-layout)
+- [Lesson 33: Image Gallery](#lesson-33-image-gallery)
+- [Lesson 34: Icons](#lesson-34-icons)
+- [Lesson 35: Flexbox](#lesson-35-flexbox)
+- [Lesson 36: Transformations](#lesson-36-transformations)
+- [Lesson 37: Animations](#lesson-37-animations)
 - [Reference](#reference)
 
 ## 📝 Lessons
@@ -428,6 +440,54 @@ Introduces HTML form elements for user input:
   **Demo Files:**
   - [index.html](./lesson-25-background-images/index.html) — showcases background image styles
   - [style.css](./lesson-25-background-images/style.css) — external CSS file defining background image styles
+
+<hr>
+
+### Lesson 26: [Combinators](./lesson-26-combinators/index.html)
+
+<hr>
+
+### Lesson 27: [Pseudo-Classes](./lesson-27-pseudo-classes/index.html)
+
+<hr>
+
+### Lesson 28: [Pseudo-Elements](./lesson-28-pseudo-elements/index.html)
+
+<hr>
+
+### Lesson 29: [Pagination](./lesson-29-pagination/index.html)
+
+<hr>
+
+### Lesson 30: [Dropdown Menus](./lesson-30-dropdown-menus/index.html)
+
+<hr>
+
+### Lesson 31: [Navigation Bar](./lesson-31-navigation-bar/index.html)
+
+<hr>
+
+### Lesson 32: [Website Layout](./lesson-32-website-layout/index.html)
+
+<hr>
+
+### Lesson 33: [Image Gallery](./lesson-33-image-gallery/index.html)
+
+<hr>
+
+### Lesson 34: [Icons](./lesson-34-icons/index.html)
+
+<hr>
+
+### Lesson 35: [Flexbox](./lesson-35-flexbox/index.html)
+
+<hr>
+
+### Lesson 36: [Transformations](./lesson-36-transformations/index.html)
+
+<hr>
+
+### Lesson 37: [Animations](./lesson-37-animations/index.html)
 
 ## 📜 Reference <a id="reference"> </a>
 
