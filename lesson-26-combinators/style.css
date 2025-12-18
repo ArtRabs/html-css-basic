@@ -1,0 +1,33 @@
+#container {
+
+    border: 2px solid;
+
+}
+
+/* Descendant Combinator */
+#container p {
+
+    background-color: yellow;
+
+}
+
+/* Child Combinator */
+#container > p {
+
+    background-color: red;
+
+}
+
+/* General Sibling Combinator */
+#container ~ p {
+
+    background-color: green;
+
+}
+
+/* Adjacent Sibling Combinator */
+#container + p {
+
+    background-color: blue;
+
+}
