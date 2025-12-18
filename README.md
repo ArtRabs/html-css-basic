@@ -445,6 +445,18 @@ Introduces HTML form elements for user input:
 
 ### Lesson 26: [Combinators](./lesson-26-combinators/index.html)
 
+  Covers CSS combinator selectors for targeting specific elements within a document:
+
+  - `#` for ID selectors
+  - `.` for class selectors
+  - `>` for direct child selectors
+  - `+` for adjacent sibling selectors
+  - `~` for general sibling selectors
+
+  **Demo Files:**
+  - [index.html](./lesson-26-combinators/index.html) — showcases combinator selectors
+  - [style.css](./lesson-26-combinators/style.css) — external CSS file defining combinator styles
+
 <hr>
 
 ### Lesson 27: [Pseudo-Classes](./lesson-27-pseudo-classes/index.html)
