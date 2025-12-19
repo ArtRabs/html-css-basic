@@ -461,6 +461,19 @@ Introduces HTML form elements for user input:
 
 ### Lesson 27: [Pseudo-Classes](./lesson-27-pseudo-classes/index.html)
 
+  Covers CSS pseudo-classes for applying styles to specific states of elements:
+
+  - `:hover`: applies styles when an element is hovered over
+  - `:active`: applies styles when an element is active
+  - `:visited`: applies styles when an element has been visited
+  - `:first-child`: applies styles to the first child element of a parent element
+  - `:last-child`: applies styles to the last child element of a parent element
+  - `:nth-child`: applies styles to specific child elements of a parent element
+
+  **Demo Files:**
+  - [index.html](./lesson-27-pseudo-classes/index.html) — showcases pseudo-class styles
+  - [style.css](./lesson-27-pseudo-classes/style.css) — external CSS file defining pseudo-class styles
+
 <hr>
 
 ### Lesson 28: [Pseudo-Elements](./lesson-28-pseudo-elements/index.html)
