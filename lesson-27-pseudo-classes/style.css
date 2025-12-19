@@ -1,0 +1,56 @@
+a:link {
+
+    color: lightblue;
+
+}
+
+a:hover {
+
+    color: rgb(206, 235, 245);
+    font-size: 1.1em;
+
+}
+
+a:active {
+
+    color: lightcoral;
+
+}
+
+a:visited {
+
+    color: grey;
+
+}
+
+li:hover {
+
+    background-color: white;
+
+}
+
+li:not(:hover) {
+
+    background-color: rgb(179, 179, 179);
+
+}
+
+li:nth-child(3n) {
+
+    background-color: lightgreen;
+
+}
+
+#greeting p {
+
+    background-color: yellowgreen;
+    padding: 10px;
+    display: none;
+
+}
+
+#greeting:hover p {
+
+    display: block;
+
+}
