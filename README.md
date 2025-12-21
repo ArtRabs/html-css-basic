@@ -55,13 +55,13 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
   - `<!DOCTYPE html>` declaration
   - `<html>`, `<head>`, `<title>`, `<body>` elements
   - Text elements: `<p>`, `<pre>`
-  - Separators: `<hr>`, `<br>`
+  - Separators: `---`, `<br>`
   - Comments: `<!-- ... -->`
 
   **Demo Files:**
   - [lyrics.html](./lesson-01-html-basic/lyrics.html) — A simple page with a song title and lyrics
 
-<hr>
+---
 
 ### **Lesson 2: [Hyperlinks](./lesson-02-hyperlinks/index.html)**  
 
@@ -77,7 +77,7 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
   **Demo Files:**
   - [lyrics.html](./lesson-02-hyperlinks/lyrics.html) — Now with link to the original video
 
-<hr>
+---
 
 ### **Lesson 3: [Images](./lesson-03-images/index.html)**  
 
@@ -93,7 +93,7 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
   - [lyrics.html](./lesson-03-images/lyrics.html)  
   - Contains image (`nah id win.jpg`), (`pc_kv1.png`) and GIF (`gojo.gif`).
 
-<hr>
+---
 
 ### **Lesson 4: [Audio](./lesson-04-audio/index.html)**  
 
@@ -115,7 +115,7 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
     - `tuco-get-out.mp3`
     - `kono-dio-da99.mp3`
 
-<hr>
+---
 
 ### **Lesson 5: [Video](./lesson-05-video/index.html)**  
 
@@ -134,7 +134,7 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
   - `clip_1,764,935,995,030.mp4` — autoplay + muted demo, wrapped in a link to [Monster Hunter Rise on Steam](https://store.steampowered.com/app/1446780/MONSTER_HUNTER_RISE/)  
   - `Hollow Knight- Silksong - 2025-10-02 6-01-13 PM.mp4` — manual controls demo
 
-<hr>
+---
 
 ### **Lesson 6: [Favicons](./lesson-06-favicons/index.html)**  
 
@@ -157,7 +157,7 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
     - Uses a `favicon.png` edited to 96×96 pixels  
     - Demonstrates clean setup without `sizes` attribute
 
-<hr>
+---
 
 ### Lesson 7: [Text Formatting](./lesson-07-text-formatting/index.html)  
 
@@ -177,7 +177,7 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
   **Demo Files:**
   - [index.html](./lesson-07-text-formatting/index.html) — showcases all the above formatting tags
 
-<hr>
+---
 
 ### Lesson 8: [Span and Div](./lesson-08-span-and-div/index.html)  
 
@@ -190,7 +190,7 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
   **Demo Files:**
   - [index.html](./lesson-08-span-and-div/index.html) — includes examples of both `<span>` and `<div>` with different background colors
 
-<hr>
+---
 
 ### Lesson 9: [Lists](./lesson-09-lists/index.html)  
 
@@ -205,7 +205,7 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
   **Demo Files:**
   - [index.html](./lesson-09-lists/index.html) — demonstrates both unordered, ordered and description lists with nested items
 
-<hr>
+---
 
 ### Lesson 10: [Tables](./lesson-10-tables/index.html)  
 
@@ -221,7 +221,7 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
   **Demo Files:**
   - [index.html](./lesson-10-tables/index.html) — includes a sample table with headers and data cells
 
-<hr>
+---
 
 ### Lesson 11: [Buttons](./lesson-11-buttons/index.html)  
 
@@ -236,7 +236,7 @@ Press the Lesson #: **Name** to be redirected to the .html of the said lesson.
   - [index.html](./lesson-11-buttons/index.html) — showcases button styles
   - [page2.html](./lesson-11-buttons/page2.html) — includes buttons with JavaScript actions
 
-<hr>
+---
 
 ### Lesson 12: [Forms](./lesson-12-forms/index.html)  
 
@@ -262,7 +262,7 @@ Introduces HTML form elements for user input:
 **Demo Files:**
 - [index.html](./lesson-12-forms/index.html) — includes a sample form with different input types, validation attributes, and file upload
 
-<hr>
+---
 
 ### Lesson 13: [Headers and Footers](./lesson-13-headers-and-footers/index.html)
 
@@ -274,7 +274,7 @@ Introduces HTML form elements for user input:
   **Demo Files:**
   - [index.html](./lesson-13-headers-and-footers/index.html) — Portrays the use of `<header>` and `<footer>` with sample content, including an image (`Lloyd OK.png`)
 
-<hr>
+---
 
 ### Lesson 14: [CSS Basics](./lesson-14-css-basic/index.html)
 
@@ -291,7 +291,7 @@ Introduces HTML form elements for user input:
   - [page2.html](./lesson-14-css-basic/page2.html) — another page styled with CSS classes
   - [style.css](./lesson-14-css-basic/style.css) — external CSS file with class definitions
 
-<hr>
+---
 
 ### Lesson 15: [Colors](./lesson-15-colors/index.html)
 
@@ -303,6 +303,8 @@ Introduces HTML form elements for user input:
   **Demo Files:**
   - [index.html](./lesson-15-colors/index.html) — showcases various color formats applied to text and backgrounds
   - [style.css](./lesson-15-colors/style.css) — external CSS file defining color styles
+
+---
 
 ### Lesson 16: [Fonts](./lesson-16-fonts/index.html)
 
@@ -316,7 +318,7 @@ Introduces HTML form elements for user input:
   - [index.html](./lesson-16-fonts/index.html) — demonstrates importing and applying Google Fonts remotely
   - [style.css](./lesson-16-fonts/style.css) — external CSS file defining font styles and using local fonts
 
-<hr>
+---
 
 ### Lesson 17: [Borders](./lesson-17-borders/index.html)
 
@@ -332,7 +334,7 @@ Introduces HTML form elements for user input:
   - [index.html](./lesson-17-borders/index.html) — showcases various border styles and properties
   - [style.css](./lesson-17-borders/style.css) — external CSS file defining border styles
 
-<hr>
+---
 
 ### Lesson 18: [Shadows](./lesson-18-shadows/index.html)
 
@@ -346,7 +348,7 @@ Introduces HTML form elements for user input:
   - [index.html](./lesson-18-shadows/index.html) — showcases box-shadow usage
   - [style.css](./lesson-18-shadows/style.css) — external CSS file defining shadow styles
 
-<hr>
+---
 
 ### Lesson 19: [Margins](./lesson-19-margins/index.html)
 
@@ -360,7 +362,7 @@ Introduces HTML form elements for user input:
   - [index.html](./lesson-19-margins/index.html) — showcases margin styles
   - [style.css](./lesson-19-margins/style.css) — external CSS file defining margin styles
 
-<hr>
+---
 
 ### Lesson 20: [Float](./lesson-20-float/index.html)
 
@@ -372,7 +374,7 @@ Introduces HTML form elements for user input:
   - [index.html](./lesson-20-float/index.html) — showcases floating elements
   - [style.css](./lesson-20-float/style.css) — external CSS file defining float styles
 
-<hr>
+---
 
 ### Lesson 21: [Overflow](./lesson-21-overflow/index.html)
 
@@ -384,7 +386,7 @@ Introduces HTML form elements for user input:
   - [index.html](./lesson-21-overflow/index.html) — showcases overflow styles
   - [style.css](./lesson-21-overflow/style.css) — external CSS file defining overflow styles
 
-<hr>
+---
 
 ### Lesson 22: [Display Property](./lesson-22-display-property/index.html)
 
@@ -400,7 +402,7 @@ Introduces HTML form elements for user input:
   - [index.html](./lesson-22-display-property/index.html) — showcases display styles
   - [style.css](./lesson-22-display-property/style.css) — external CSS file defining display styles
 
-<hr>
+---
 
 ### Lesson 23: [Height and Width](./lesson-23-height-and-width/index.html)
 
@@ -415,7 +417,7 @@ Introduces HTML form elements for user input:
   - [index.html](./lesson-23-height-and-width/index.html) — showcases height and width styles
   - [style.css](./lesson-23-height-and-width/style.css) — external CSS file defining height and width styles
 
-<hr>
+---
 
 ### Lesson 24: [Positions](./lesson-24-positions/index.html)
 
@@ -428,7 +430,7 @@ Introduces HTML form elements for user input:
   - [index.html](./lesson-24-positions/index.html) — showcases position styles
   - [style.css](./lesson-24-positions/style.css) — external CSS file defining position styles
 
-<hr>
+---
 
 ### Lesson 25: [Background Images](./lesson-25-background-images/index.html)
 
@@ -441,7 +443,7 @@ Introduces HTML form elements for user input:
   - [index.html](./lesson-25-background-images/index.html) — showcases background image styles
   - [style.css](./lesson-25-background-images/style.css) — external CSS file defining background image styles
 
-<hr>
+---
 
 ### Lesson 26: [Combinators](./lesson-26-combinators/index.html)
 
@@ -457,7 +459,7 @@ Introduces HTML form elements for user input:
   - [index.html](./lesson-26-combinators/index.html) — showcases combinator selectors
   - [style.css](./lesson-26-combinators/style.css) — external CSS file defining combinator styles
 
-<hr>
+---
 
 ### Lesson 27: [Pseudo-Classes](./lesson-27-pseudo-classes/index.html)
 
@@ -474,43 +476,56 @@ Introduces HTML form elements for user input:
   - [index.html](./lesson-27-pseudo-classes/index.html) — showcases pseudo-class styles
   - [style.css](./lesson-27-pseudo-classes/style.css) — external CSS file defining pseudo-class styles
 
-<hr>
+---
 
 ### Lesson 28: [Pseudo-Elements](./lesson-28-pseudo-elements/index.html)
 
-<hr>
+  Covers CSS pseudo-elements for adding styles to specific parts of elements:
+
+  - `::before`: applies styles to the content before an element
+  - `::after`: applies styles to the content after an element
+  - `::first-letter`: applies styles to the first letter of an element
+  - `::first-line`: applies styles to the first line of an element
+  - `::selection`: applies styles to the selected text
+
+  **Demo Files:**
+
+  - [index.html](./lesson-28-pseudo-elements/index.html) — showcases pseudo-element styles
+  - [style.css](./lesson-28-pseudo-elements/style.css) — external CSS file defining pseudo-element styles
+
+---
 
 ### Lesson 29: [Pagination](./lesson-29-pagination/index.html)
 
-<hr>
+---
 
 ### Lesson 30: [Dropdown Menus](./lesson-30-dropdown-menus/index.html)
 
-<hr>
+---
 
 ### Lesson 31: [Navigation Bar](./lesson-31-navigation-bar/index.html)
 
-<hr>
+---
 
 ### Lesson 32: [Website Layout](./lesson-32-website-layout/index.html)
 
-<hr>
+---
 
 ### Lesson 33: [Image Gallery](./lesson-33-image-gallery/index.html)
 
-<hr>
+---
 
 ### Lesson 34: [Icons](./lesson-34-icons/index.html)
 
-<hr>
+---
 
 ### Lesson 35: [Flexbox](./lesson-35-flexbox/index.html)
 
-<hr>
+---
 
 ### Lesson 36: [Transformations](./lesson-36-transformations/index.html)
 
-<hr>
+---
 
 ### Lesson 37: [Animations](./lesson-37-animations/index.html)
 
