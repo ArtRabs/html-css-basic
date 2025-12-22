@@ -497,6 +497,14 @@ Introduces HTML form elements for user input:
 
 ### Lesson 29: [Pagination](./lesson-29-pagination/index.html)
 
+  Covers CSS pagination for creating navigation for multiple pages:
+
+  - `pagination `: applies styles to the pagination container
+
+  **Demo Files:**
+  - [index.html](./lesson-29-pagination/index.html) — showcases pagination styles
+  - [style.css](./lesson-29-pagination/style.css) — external CSS file defining pagination styles
+
 ---
 
 ### Lesson 30: [Dropdown Menus](./lesson-30-dropdown-menus/index.html)
