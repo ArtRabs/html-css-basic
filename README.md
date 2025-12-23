@@ -509,6 +509,14 @@ Introduces HTML form elements for user input:
 
 ### Lesson 30: [Dropdown Menus](./lesson-30-dropdown-menus/index.html)
 
+  Covers CSS dropdown menus for creating interactive navigation:
+
+  - `dropdown `: applies styles to the dropdown container
+
+  **Demo Files:**
+  - [index.html](./lesson-30-dropdown-menus/index.html) — showcases dropdown menu styles
+  - [style.css](./lesson-30-dropdown-menus/style.css) — external CSS file defining dropdown menu styles
+
 ---
 
 ### Lesson 31: [Navigation Bar](./lesson-31-navigation-bar/index.html)
