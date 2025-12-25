@@ -499,7 +499,7 @@ Introduces HTML form elements for user input:
 
   Covers CSS pagination for creating navigation for multiple pages:
 
-  - `pagination `: applies styles to the pagination container
+  - `pagination`: applies styles to the pagination container
 
   **Demo Files:**
   - [index.html](./lesson-29-pagination/index.html) — showcases pagination styles
@@ -511,7 +511,7 @@ Introduces HTML form elements for user input:
 
   Covers CSS dropdown menus for creating interactive navigation:
 
-  - `dropdown `: applies styles to the dropdown container
+  - `dropdown`: applies styles to the dropdown container
 
   **Demo Files:**
   - [index.html](./lesson-30-dropdown-menus/index.html) — showcases dropdown menu styles
@@ -520,6 +520,17 @@ Introduces HTML form elements for user input:
 ---
 
 ### Lesson 31: [Navigation Bar](./lesson-31-navigation-bar/index.html)
+
+  Covers CSS navigation bar for creating interactive navigation:
+
+  - `navbar`: applies styles to the navigation bar container
+
+  **Demo Files:**
+  - [index.html](./lesson-31-navigation-bar/index.html) — showcases navigation bar styles
+  - [products.html](./lesson-31-navigation-bar/products.html) — showcases navigation bar styles
+  - [contact.html](./lesson-31-navigation-bar/contact.html) — showcases navigation bar styles
+  - [about.html](./lesson-31-navigation-bar/about.html) — showcases navigation bar styles
+  - [style.css](./lesson-31-navigation-bar/style.css) — external CSS file defining navigation bar styles
 
 ---
 
