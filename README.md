@@ -536,6 +536,20 @@ Introduces HTML form elements for user input:
 
 ### Lesson 32: [Website Layout](./lesson-32-website-layout/index.html)
 
+  Covers the use of semantic tags for structuring a webpage layout to keep the content organized:
+
+  - `<header>`: defines the header section of a webpage
+  - `<nav>`: defines a navigation section
+  - `<main>`: defines the main content of a webpage
+  - `<section>`: defines a section of content
+  - `<article>`: defines an independent piece of content
+  - `<aside>`: defines content aside from the main content
+  - `<footer>`: defines the footer section of a webpage
+
+  **Demo Files:**
+  - [index.html](./lesson-32-website-layout/index.html) — showcases semantic layout structure
+  - [style.css](./lesson-32-website-layout/style.css) — external CSS file defining layout styles
+
 ---
 
 ### Lesson 33: [Image Gallery](./lesson-33-image-gallery/index.html)
