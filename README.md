@@ -554,6 +554,21 @@ Introduces HTML form elements for user input:
 
 ### Lesson 33: [Image Gallery](./lesson-33-image-gallery/index.html)
 
+  Covers the creation of an image gallery using HTML and CSS:
+
+  - Structuring the gallery with `<div>` containers
+  - Using `<img>` tags to display images
+  - Using `<a>` tags to link images to their full-size versions
+  - Styling the gallery with CSS for layout
+
+  **Demo Files:**
+  - [index.html](./lesson-33-image-gallery/index.html) — showcases image gallery layout
+  - [style.css](./lesson-33-image-gallery/style.css) — external CSS file defining gallery styles
+  - [images folder](./lesson-33-image-gallery/images/) — contains images used in the gallery:
+    - `01-desktop.png`
+    - `02-desktop.png`
+    - `03-desktop.png`
+
 ---
 
 ### Lesson 34: [Icons](./lesson-34-icons/index.html)
@@ -602,4 +617,16 @@ Lesson 16 from Google Fonts:
 
 Lesson 25:
 
-[Official Calendar Image](https://zenless.hoyoverse.com/en-us/news/122693) but I can not see the source of the one who cropped the dates, it is supposed to be in my google drive history, or perhaps there is no history nor google drive that happened
+[Official Calendar Image](https://zenless.hoyoverse.com/en-us/news/122693) ~~but I can not see the source of the one who cropped the dates, it is supposed to be in my google drive history, or perhaps there is no history nor google drive that happened~~  
+[Found it](drive.google.com/drive/folders/1KvRyMzN3OFrBQ-TV4H1dOJAd6IpNSr-S?usp=sharing)
+
+Lesson 33:
+
+- [Blue one](https://zenless.hoyoverse.com/en-us/news/127771)
+
+- [The red one](https://zenless.hoyoverse.com/en-us/news/129730)
+
+- [Anby](https://zenless.hoyoverse.com/en-us/news/154525)
+
+Same as Lesson 25:
+drive.google.com/drive/folders/1KvRyMzN3OFrBQ-TV4H1dOJAd6IpNSr-S?usp=sharing
