@@ -587,6 +587,20 @@ Introduces HTML form elements for user input:
 
 ### Lesson 35: [Flexbox](./lesson-35-flexbox/index.html)
 
+  Covers CSS flexbox for creating flexible layouts:
+
+  - `display: flex;` to enable flexbox on a container
+  - Key flexbox properties:
+    - `flex-direction`
+    - `justify-content`
+    - `align-items`
+    - `flex-wrap`
+    - `align-content`
+
+  **Demo Files:**
+  - [index.html](./lesson-35-flexbox/index.html) — showcases flexbox layout
+  - [style.css](./lesson-35-flexbox/style.css) — external CSS file
+
 ---
 
 ### Lesson 36: [Transformations](./lesson-36-transformations/index.html)
