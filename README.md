@@ -573,6 +573,16 @@ Introduces HTML form elements for user input:
 
 ### Lesson 34: [Icons](./lesson-34-icons/index.html)
 
+  Covers the use of icons in HTML and CSS:
+
+  - Using icon fonts (e.g., Font Awesome)
+  - Embedding icons directly in HTML using `<i>` tags
+  - Styling icons with CSS
+
+  **Demo Files:**
+  - [index.html](./lesson-34-icons/index.html) — showcases icon styles
+  - [style.css](./lesson-34-icons/style.css) — external CSS file defining icon styles
+
 ---
 
 ### Lesson 35: [Flexbox](./lesson-35-flexbox/index.html)
