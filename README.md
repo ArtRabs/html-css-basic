@@ -621,6 +621,21 @@ Introduces HTML form elements for user input:
 
 ### Lesson 37: [Animations](./lesson-37-animations/index.html)
 
+  Covers CSS animations for creating animated effects:
+
+  - `@keyframes` rule to define animations
+  - `animation` property with sub-properties:
+    - `animation-name`
+    - `animation-duration`
+    - `animation-timing-function`
+    - `animation-delay`
+    - `animation-iteration-count`
+    - `animation-direction`
+
+  **Demo Files:**
+  - [index.html](./lesson-37-animations/index.html) — showcases animation styles
+  - [style.css](./lesson-37-animations/style.css) — external CSS file defining animation styles
+
 ## 📜 Reference <a id="reference"> </a>
 
 Bro Code's [HTML & CSS Full Course for free 🌎](https://youtu.be/HGTJBPNC-Gw?si=a0IynkT4bDszamhX) and thank you for being such a chad.
