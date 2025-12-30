@@ -605,6 +605,18 @@ Introduces HTML form elements for user input:
 
 ### Lesson 36: [Transformations](./lesson-36-transformations/index.html)
 
+  Covers CSS transformations for manipulating elements:
+
+  - `transform` property with functions:
+    - `translate()`
+    - `rotate()`
+    - `scale()`
+    - `skew()`
+
+  **Demo Files:**
+  - [index.html](./lesson-36-transformations/index.html) — showcases transformation styles
+  - [style.css](./lesson-36-transformations/style.css) — external CSS file defining transformation styles
+
 ---
 
 ### Lesson 37: [Animations](./lesson-37-animations/index.html)
